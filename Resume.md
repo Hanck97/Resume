@@ -14,7 +14,7 @@
 
 - 职业信用信息系统  (2016.11 ~ 2017.04)
   - 该项目为大二期间接手的外包项目，被运用于市场应聘，个人信息共享（包括个人任用记录、考评成绩、个人简历等）；
-  - 负责整个项目的Web端前端的工作；
+  - 负责项目的Web前端工作,完成了个人黑名单查询、个人考评界面等界面；
   - 涉及到的主要技术：React技术栈 / Nodejs / Webpack / antd ；
   - 使用 RESTful API 与后端交互；
   - 目前项目已经投入使用，客户反馈良好；
@@ -22,13 +22,13 @@
     [https://gitee.com/BunnyHsu/Occupational_Credit_Web](https://gitee.com/BunnyHsu/Occupational_Credit_Web)
 - 科技服务平台系统 (2017.07 ~ 2017.09)
   - 该项目受金华华鼎科技有限公司委托完成，主要应用于企业项目招标、信息公开等； 
-  - 负责整个项目的Web端前端的工作；
+  - 负责项目的Web前端工作，完成了后期对项目界面用户体验的修缮；
   - 涉及到的主要技术：Bootstrap / jQuery ；
   - 项目仓库地址：
     [https://gitee.com/Methionine/serviceplatform](https://gitee.com/Methionine/serviceplatform)
 - 蓝鸥IT教育课程考试系统 (2017.08 ~ 2017.09)
   - 为“2017年中国软件服务外包大赛”参赛项目，前端采用React技术栈，后端采用SpringBoot；
-  - 负责整个项目的Web端前端的工作；
+  - 独立负责项目的Web前端工作；
   - 该项目为一个参赛项目，从中掌握了团队开发的基本方法，提升了自己的开发能力；
   - 项目仓库地址：
     [https://gitee.com/hannnah/LanOU](https://gitee.com/hannnah/LanOU)
