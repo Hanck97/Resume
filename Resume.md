@@ -3,7 +3,7 @@
 - 童晗阳／男／21岁
 - 19届本科应届生／浙江师范大学软件工程系
 - Github：[https://github.com/HancockTong](https://github.com/HancockTong)
-- 技术博客：[https://www.jianshu.com/u/0a2048945fc1](https://www.jianshu.com/u/0a2048945fc1)
+- 技术博客：[https://hancocktong.github.io](https://hancocktong.github.io)
 - 手机：17857097003
 - 电子邮件：1023537815@qq.com
 - 期望职位：Web前端开发
