@@ -13,23 +13,23 @@
 ## 项目经历
 		
 - 参与“浙师数码城”项目（2017.10—2017.12）
-- 完全独立完成的小型项目，Mock.js 模拟 ajax 数据处理，UI 模仿京东 app；
-- 该项目获得“2017 年浙江师范大学前端设计大赛”web 组一等奖；
-- 项目托管地址：[https://github.com/HancockTong/React-DigitalMall](https://github.com/HancockTong/React-DigitalMall)
+ - 完全独立完成的小型项目，Mock.js 模拟 ajax 数据处理，UI 模仿京东 app；
+ - 该项目获得“2017 年浙江师范大学前端设计大赛”web 组一等奖；
+ - 项目托管地址：[https://github.com/HancockTong/React-DigitalMall](https://github.com/HancockTong/React-DigitalMall)
 - 参与“蓝鸥 IT 教育课程考试系统”项目（2017.08—2017.09）
-- 为“2017 年中国软件服务外包大赛”参赛项目，前端采用 React 技术栈，后端采用 SpringBoot；
-- 独立负责项目的 Web 前端工作；
-- 项目托管地址：[https://gitee.com/hannnah/LanOU](https://gitee.com/hannnah/LanOU)
+ - 为“2017 年中国软件服务外包大赛”参赛项目，前端采用 React 技术栈，后端采用 SpringBoot；
+ - 独立负责项目的 Web 前端工作；
+ - 项目托管地址：[https://gitee.com/hannnah/LanOU](https://gitee.com/hannnah/LanOU)
 - 参与“科技服务平台系统”项目（2017.07—2017.09）
-- 该项目受金华华鼎科技有限公司委托完成，主要应用于企业项目招标、信息公开等；
-- 负责项目的 Web 前端工作，完成了后期对项目界面用户体验的修缮；
-- 涉及到的主要技术：Bootstrap / jQuery ；
-- 项目托管地址：[https://gitee.com/Methionine/serviceplatform](https://gitee.com/Methionine/serviceplatform)
+ - 该项目受金华华鼎科技有限公司委托完成，主要应用于企业项目招标、信息公开等；
+ - 负责项目的 Web 前端工作，完成了后期对项目界面用户体验的修缮；
+ - 涉及到的主要技术：Bootstrap / jQuery ；
+ - 项目托管地址：[https://gitee.com/Methionine/serviceplatform](https://gitee.com/Methionine/serviceplatform)
 - 参与“职业信用信息系统”项目（2016.11—2017.04）
-- 该项目为大二接手的外包项目，被运用于市场应聘，个人信息共享（包括个人任用记录、考评成绩、个人简历等）；
-- 负责项目的 Web 前端工作,完成了个人黑名单查询、个人考评界面等界面；
-- 涉及到的主要技术：React 技术栈 / Nodejs / Webpack ；
-- 项目托管地址：[https://gitee.com/BunnyHsu/Occupational_Credit_Web](https://gitee.com/BunnyHsu/Occupational_Credit_Web)
+ - 该项目为大二接手的外包项目，被运用于市场应聘，个人信息共享（包括个人任用记录、考评成绩、个人简历等）；
+ - 负责项目的 Web 前端工作,完成了个人黑名单查询、个人考评界面等界面；
+ - 涉及到的主要技术：React 技术栈 / Nodejs / Webpack ；
+ - 项目托管地址：[https://gitee.com/BunnyHsu/Occupational_Credit_Web](https://gitee.com/BunnyHsu/Occupational_Credit_Web)
 
 
 ## 专业技能
